@@ -30,6 +30,17 @@ symbols and commands are escaped by putting `+` before a word instead of `-`. fo
 - +suli: double scale (default is x8, so each 16px character is rendered at 128px)
 - +lili: half scale
 
+### seximal
+I've included 'san' and 'po' specifically so numbers can be written in seximal, which is a place-value system, which feels like a good fit for a monospace font.
+
+<http://sl.hatspace.net/v2/ala-wan-tu-san-po-luka>  
+![ala wan tu san po luka](http://sl.hatspace.net/v2/ala-wan-tu-san-po-luka)
+
+<http://sl.hatspace.net/v2/+ala-wan-san+sin-kipisi-wan-po+sin-sama+ala-ala-lili-luka-sike-tu+lili>  
+![13 / 14 = 0.5(2)](http://sl.hatspace.net/v2/+ala-wan-san+sin-kipisi-wan-po+sin-sama+ala-ala-lili-luka-sike-tu+lili)
+
+13 / 14 = 0.5(2). that is, nine tenths equals zero point five, two repeating.
+
 ## develop
 
 To install dependencies:
