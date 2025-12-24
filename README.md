@@ -1,5 +1,7 @@
 # ilo-pali-pi-sitelen-leko
 
+![ilo pali pi sitelen leko](/sona/ilo-pali-pi-sitelen-leko.png)
+
 ## usage
 
 generates sitelen leko images from toki pona text. sitelen leko is a 16x16 monospace font for sitelen pona that I developed for use in the nodecore mod [ncp_tokipona](https://codeberg.org/nupanick/ncp_tokipona).
